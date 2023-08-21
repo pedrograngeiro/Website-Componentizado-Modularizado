@@ -1,0 +1,30 @@
+.fa-house {
+  font-size: 24px;
+}
+
+.fa-list {
+  font-size: 24px;
+}
+
+.container-esquerdo {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 80px;
+  background-color: #663399;
+}
+
+.vertical-menu {
+  width: 100px;
+  padding: 10px 0 0 5px;
+}
+
+.vertical-menu ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.vertical-menu li {
+  margin: 0 0 20px 18px;
+}
